@@ -40,7 +40,7 @@ contains many subfolders that contain each part of the application. A few exampl
 
 The `for_VHlab/proposal_construction` folder is where the proposal is built. 
 
-**Important**: Once you start adding references with EndNote, it is important NOT to edit any Word document in Google Drive using the Google Docs editor. It sometimes messes up the EndNote references. The editing should be done in the document's native program. This is true for paper drafts as well.
+**Important**: _Once you start adding references with EndNote, it is important NOT to edit any Word document in Google Drive using the Google Docs editor. It sometimes messes up the EndNote references. The editing should be done in the document's native program. This is true for paper drafts as well._
 
 **2.1** The proposal file should be named something like `ProjectSummary_SpecificAims_ResearchStrategy` with an appropriate extension. It will contain all of those items as well as the references. It is useful to have all of these pages in one document because they interact with each other (particularly the Specific Aims and the Research Strategy; they are hard to read if they are not right next to each other, as they will be in the application seen by the reviewers).
 
